@@ -2,4 +2,7 @@
 
 # Open source roadmap
 
-Dummy Git repo to house issues for my [open source roadmap](https://www.taoensso.com/roadmap) GitHub project.
+- See [here](https://www.taoensso.com/roadmap) for my **upcoming work**
+- See [here](https://www.taoensso.com/roadmap/vote) to **help vote** on my upcoming work (thanks! 🙏)
+
+\- [Peter Taoussanis](https:/www.taoensso.com)
